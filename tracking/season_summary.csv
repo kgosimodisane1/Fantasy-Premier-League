@@ -1,0 +1,6 @@
+gw,my_total,suggested_total,totw_total,my_captain,captain_pts_raw,my_players_in_totw,bench_pts_missed,notes
+1,54,,148,B.Fernandes,2,0,0,None of my players made TOTW; differential-heavy week
+2,107,51,143,B.Fernandes,23,3,8,"Optimiser suggestion scored 51 (small-sample / De Cuyper-captain mirage); I beat it by 56. Sarr->Elanga; Elanga 8 on bench; Calafiori/B.Fernandes/Haaland in TOTW"
+3,52,41,127,Haaland,9,2,2,"Held (0 transfers). Captain switch to Haaland (18) vs Bruno (would be 4) = +14. Beat model 52 vs 41; 3 off ex-post best (55). Tavernier & Haaland in TOTW."
+4,84,73,146,B.Fernandes,2,2,0,"Gvardiol+Rogers double (free). Captain Bruno blanked (raw 2); Haaland 9 would've given +14. Auto-sub hero: Elanga 0 min -> Davis 14 in. Raya 14 & Davis 14 in TOTW. Beat model 84 vs 73; 12 off ex-post best 96."
+5,46,,150,Haaland,6,1,,"Quiet week (GW avg 48). Forced Elanga(inj 0)->Groß move VINDICATED: Groß 14 & in TOTW. Captain Haaland (raw 6 ->12) correct vs Bruno (raw 2 ->4), +4. Rest of squad blanked (Raya/Gabriel/Calafiori/Tavernier/Rogers/Bruno all 1-2). Suggested actual pending record_actuals(gw=5)."

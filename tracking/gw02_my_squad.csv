@@ -1,0 +1,16 @@
+gw,pos,web_name,team,points_raw,role,in_xi,captain
+2,GKP,Raya,Arsenal,6,Starter,TRUE,FALSE
+2,DEF,Virgil,Liverpool,1,Starter,TRUE,FALSE
+2,DEF,Davis,Ipswich Town,6,Starter,TRUE,FALSE
+2,DEF,Gabriel,Arsenal,8,Starter,TRUE,FALSE
+2,DEF,Calafiori,Arsenal,11,Starter,TRUE,FALSE
+2,DEF,Thomas,Coventry,8,Starter,TRUE,FALSE
+2,MID,Tavernier,Bournemouth,1,Starter,TRUE,FALSE
+2,MID,B.Fernandes,Man Utd,23,Captain,TRUE,TRUE
+2,MID,Anderson,Man City,3,Starter,TRUE,FALSE
+2,MID,Ndiaye,Everton,4,Starter,TRUE,FALSE
+2,FWD,Haaland,Man City,13,Starter(VC),TRUE,FALSE
+2,GKP,Dovin,Coventry,0,Bench,FALSE,FALSE
+2,MID,Elanga,Newcastle,8,Bench,FALSE,FALSE
+2,FWD,Kusi-Asare,Fulham,0,Bench,FALSE,FALSE
+2,FWD,Furo,Brentford,0,Bench,FALSE,FALSE

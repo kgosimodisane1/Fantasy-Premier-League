@@ -1,0 +1,16 @@
+gw,pos,web_name,team,points_raw,role,in_xi,captain
+5,GKP,Raya,Arsenal,1,Starter,TRUE,FALSE
+5,DEF,Gvardiol,Man City,4,Starter,TRUE,FALSE
+5,DEF,Gabriel,Arsenal,1,Starter,TRUE,FALSE
+5,DEF,Calafiori,Arsenal,1,Starter,TRUE,FALSE
+5,DEF,Davis,Ipswich Town,2,Starter,TRUE,FALSE
+5,MID,Ndiaye,Man City,5,Starter,TRUE,FALSE
+5,MID,Tavernier,Bournemouth,2,Starter,TRUE,FALSE
+5,MID,B.Fernandes,Man Utd,2,Starter(VC),TRUE,FALSE
+5,MID,Rogers,Chelsea,2,Starter,TRUE,FALSE
+5,MID,Groß,Brighton,14,Starter,TRUE,FALSE
+5,FWD,Haaland,Man City,6,Captain,TRUE,TRUE
+5,GKP,Dovin,Coventry,,Bench (on loan/unavail),FALSE,FALSE
+5,DEF,Thomas,Coventry,,Bench,FALSE,FALSE
+5,FWD,Kusi-Asare,Fulham,,Bench,FALSE,FALSE
+5,FWD,Furo,Brentford,,Bench (injured),FALSE,FALSE

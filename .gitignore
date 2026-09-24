@@ -1,0 +1,10 @@
+# R session files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# generated plots / outputs
+value_map.png
+eda_scatter_*.png
+eda_corr_*.png
